@@ -1,2 +1,2 @@
-# Coursera
+# Coursera_Capstone
 Assignment
